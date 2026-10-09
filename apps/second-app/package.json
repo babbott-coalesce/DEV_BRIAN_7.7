@@ -1,0 +1,9 @@
+{
+  "name": "second-app",
+  "version": "1.0.0",
+  "description": "Second workspace app for testing multiple app tabs",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}

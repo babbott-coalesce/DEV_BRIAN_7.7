@@ -1,0 +1,9 @@
+{
+  "name": "hello-app",
+  "version": "1.0.0",
+  "description": "Lives in apps/hello-app-duplicate but shares the display name hello-app to test duplicate app names",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
